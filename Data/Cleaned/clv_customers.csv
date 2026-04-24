@@ -1,0 +1,501 @@
+customer_id,full_name,email,email_valid,phone,city,state,gender,age,registration_date,acquisition_channel,segment
+CUST0001,Alexander Davis,alexanderdavis@gmail.com,Valid,,Chicago,Illinois,Male,26,12/9/2020,Direct,New
+CUST0002,William Turner,williamturner@yahoo.com,Valid,(484) 359-4527,Unknown,,Female,18,4/15/2023,Social Media,Loyal
+CUST0003,Samuel Nelson,samuelnelson@gmail.com,Valid,(921) 271-1750,San Jose,California,,58,7/3/2020,Referral,Loyal
+CUST0004,Alexander King,alexanderking@gmail.com,Valid,(850) 375-9751,Philadelphia,Pennsylvania,Prefer Not To Say,35,6/12/2021,Ads,New
+CUST0005,Savannah Brown,savannahbrown@gmail.com,Valid,(935) 522-4483,Fort Worth,Texas,Male,35,1/26/2021,Direct,Regular
+CUST0006,Zoey Turner,zoeyturner@yahoo.com,Valid,(721) 705-2489,Houston,Texas,Female,55,12/19/2022,Referral,Regular
+CUST0007,Jack Parker,jackparker@yahoo.com,Valid,,Columbus,Ohio,Male,18,9/9/2023,Email,Churned
+CUST0008,David Thomas,davidthomas@yahoo.com,Valid,(752) 997-9689,Nashville,Tennessee,Prefer Not To Say,50,11/10/2020,Marketplace,VIP
+CUST0009,Harper Brown,harperbrown@gmail.com,Valid,(328) 331-8787,Philadelphia,Pennsylvania,Female,49,10/3/2021,Email,New
+CUST0010,David Reed,davidreed@gmail.com,Valid,,New York,New York,Male,60,,Direct,Regular
+CUST0011,Sophia Harris,sophiaharris@gmail.com,Valid,(335) 940-8744,Indianapolis,Indiana,Male,50,1/28/2020,Referral,Regular
+CUST0012,Owen Nelson,owennelson@gmail.com,Valid,(311) 454-4139,Charlotte,North Carolina,Female,24,11/21/2020,Organic Search,Churned
+CUST0013,Matthew Phillips,matthewphillips@gmail.com,Valid,(370) 616-8956,Fort Worth,Texas,Male,,1/21/2020,Marketplace,Churned
+CUST0014,Jackson Baker,jacksonbaker@gmail.com,Valid,(258) 251-8811,San Francisco,California,Male,21,3/7/2023,Email,Regular
+CUST0015,Liam Rogers,liamrogers@gmail.com,Valid,(629) 873-9565,Dallas,Texas,Male,54,7/4/2021,Direct,Churned
+CUST0016,Hannah Walker,hannahwalker@gmail.com,Valid,(275) 750-4492,Phoenix,Arizona,Prefer Not To Say,18,6/25/2023,Ads,Churned
+CUST0017,Dylan Cook,dylancook@gmail.com,Valid,,Houston,Texas,Male,18,10/26/2022,Social Media,Loyal
+CUST0018,Alexander Thompson,alexanderthompson@@yahoo.com,Invalid,(989) 333-5291,Charlotte,North Carolina,Male,58,,Direct,New
+CUST0019,Mia Turner,miaturner@gmail.com,Valid,(240) 566-4441,Houston,Texas,Prefer Not To Say,45,6/19/2020,Direct,Loyal
+CUST0020,Mia Martin,miamartin@gmail.com,Valid,(885) 952-5065,Houston,Texas,Female,,3/14/2021,Referral,New
+CUST0021,Mateo Walker,mateowalker@gmail.com,Valid,(485) 559-9346,Seattle,Washington,Prefer Not To Say,43,4/1/2021,Email,Loyal
+CUST0022,Aiden Williams,,Missing,,Columbus,Ohio,Female,38,10/14/2020,Direct,Regular
+CUST0023,Riley Morris,rileymorris@gmail.com,Valid,(327) 937-5920,Columbus,Ohio,Female,,6/14/2021,Direct,New
+CUST0024,Jack Rogers,jackrogers@gmail.com,Valid,(793) 821-6279,Charlotte,North Carolina,Woman,,10/19/2021,Direct,Regular
+CUST0025,Mason Morris,masonmorris@gmail.com,Valid,(888) 517-4680,Phoenix,Arizona,Female,57,5/17/2020,Organic Search,Loyal
+CUST0026,Alexander Evans,alexanderevans@@gmail.com,Invalid,(968) 988-2746,San Diego,California,Female,43,12/23/2021,Ads,Regular
+CUST0027,Isabella Nelson,isabellanelson@gmail.com,Valid,(827) 936-9270,Seattle,Washington,,53,8/22/2021,Marketplace,Regular
+CUST0028,Alexander Young,alexanderyoung@yahoo.com,Valid,(753) 282-3267,Fort Worth,Texas,Male,22,11/8/2023,Email,Regular
+CUST0029,Scarlett Green,scarlettgreen@yahoo.com,Valid,,Jacksonville,Florida,Prefer Not To Say,,4/27/2020,Email,Regular
+CUST0030,Riley Turner,rileyturner@gmail.com,Valid,(614) 941-3704,Phoenix,Arizona,Prefer Not To Say,49,8/8/2021,Direct,Regular
+CUST0031,Emma Garcia,emmagarcia@gmail.com,Valid,(545) 979-7211,Columbus,Ohio,Male,21,3/28/2023,Social Media,Regular
+CUST0032,Liam Stewart,liamstewart@yahoo.com,Valid,(317) 777-4571,Dallas,Texas,Male,19,1/8/2020,Organic Search,New
+CUST0033,Mason Walker,masonwalker@gmail.com,Valid,(932) 403-2245,Unknown,,,54,10/1/2020,Organic Search,Churned
+CUST0034,Henry Williams,henrywilliams@gmail.com,Valid,(701) 308-8102,Charlotte,North Carolina,Female,22,9/14/2022,Social Media,Loyal
+CUST0035,Dylan Carter,dylancarter@yahoo.com,Valid,(485) 661-4995,Denver,Colorado,Male,35,7/27/2023,Ads,Loyal
+CUST0036,Mateo Thompson,mateothompson@gmail.com,Valid,(447) 937-7658,San Diego,California,Female,35,5/20/2022,Organic Search,Loyal
+CUST0037,Mila Reed,milareed@gmail.com,Valid,(763) 538-6764,Dallas,Texas,Male,48,5/22/2021,Direct,Loyal
+CUST0038,Dylan Reed,dylanreed@gmail.com,Valid,(489) 302-4180,Jacksonville,Florida,Female,35,4/7/2021,Organic Search,Loyal
+CUST0039,William Wilson,williamwilson@gmail.com,Valid,,Chicago,Illinois,Male,36,2/28/2023,Ads,New
+CUST0040,Abigail Garcia,abigailgarcia@gmail.com,Valid,(589) 661-8253,Denver,Colorado,Male,56,2/18/2021,Direct,VIP
+CUST0041,Noah White,noahwhite@@yahoo.com,Invalid,(661) 905-8699,San Diego,California,,33,,Ads,New
+CUST0042,Joseph Collins,josephcollins@yahoo.com,Valid,(261) 369-6039,Denver,Colorado,Female,59,7/4/2021,Referral,Regular
+CUST0043,Evelyn Perez,evelynperez@@gmail.com,Invalid,(434) 890-1339,Dallas,Texas,Male,45,8/3/2023,Referral,Loyal
+CUST0044,Evelyn Thomas,evelynthomas@gmail.com,Valid,(307) 364-6403,Indianapolis,Indiana,Woman,23,11/27/2023,Referral,Regular
+CUST0045,Ava Lewis,avalewis@@gmail.com,Invalid,,San Francisco,California,Male,,6/4/2022,Ads,Churned
+CUST0046,Ethan Robinson,ethanrobinson@yahoo.com,Valid,,Houston,Texas,,58,12/16/2023,Direct,New
+CUST0047,Jackson Perez,jacksonperez@gmail.com,Valid,(813) 720-3236,Dallas,Texas,Female,48,7/27/2022,Social Media,Regular
+CUST0048,Jackson Walker,jacksonwalker@gmail.com,Valid,(529) 393-4912,San Diego,California,Female,40,3/15/2023,Marketplace,Regular
+CUST0049,Benjamin Stewart,benjaminstewart@yahoo.com,Valid,,Phoenix,Arizona,Male,55,8/2/2021,Social Media,New
+CUST0050,William Scott,williamscott@gmail.com,Valid,,Chicago,Illinois,Male,52,6/28/2020,Organic Search,Loyal
+CUST0051,Noah Collins,noahcollins@gmail.com,Valid,(583) 641-3385,Columbus,Ohio,Male,19,,Marketplace,Loyal
+CUST0052,Layla Martin,laylamartin@@yahoo.com,Invalid,(676) 494-9955,Charlotte,North Carolina,Male,58,10/5/2023,Direct,New
+CUST0053,Aiden Nelson,aidennelson@gmail.com,Valid,(916) 502-1359,Fort Worth,Texas,Female,24,4/13/2022,Organic Search,Churned
+CUST0054,Riley Mitchell,rileymitchell@gmail.com,Valid,(938) 985-3240,Los Angeles,California,Female,32,4/20/2022,Organic Search,VIP
+CUST0055,Sebastian Green,sebastiangreen@gmail.com,Valid,(463) 693-5835,Austin,Texas,Male,41,4/5/2021,Ads,VIP
+CUST0056,Samuel Rogers,samuelrogers@gmail.com,Valid,(888) 966-5295,Unknown,,Male,43,9/12/2023,Email,New
+CUST0057,Sebastian Edwards,sebastianedwards@gmail.com,Valid,(343) 246-1609,Unknown,,Female,,11/3/2021,Social Media,Loyal
+CUST0058,Riley Reed,rileyreed@gmail.com,Valid,(486) 233-7070,Charlotte,North Carolina,Male,44,10/24/2023,Email,Loyal
+CUST0059,Hannah Allen,hannahallen@gmail.com,Valid,,Austin,Texas,Female,,7/9/2020,Marketplace,New
+CUST0060,Nora White,norawhite@gmail.com,Valid,(333) 753-5106,Houston,Texas,Male,56,6/25/2021,Ads,New
+CUST0061,Emma Thomas,emmathomas@yahoo.com,Valid,(570) 725-2786,San Diego,California,Male,51,1/5/2022,Email,Loyal
+CUST0062,Abigail Nelson,abigailnelson@gmail.com,Valid,(275) 282-6277,Chicago,Illinois,Female,45,1/16/2020,Referral,VIP
+CUST0063,Isaac Roberts,isaacroberts@yahoo.com,Valid,(987) 764-4522,San Diego,California,Female,24,8/17/2022,Social Media,Loyal
+CUST0064,Benjamin Thompson,benjaminthompson@yahoo.com,Valid,(962) 956-7105,Seattle,Washington,Female,22,3/22/2022,Referral,Churned
+CUST0065,Mateo Morris,mateomorris@yahoo.com,Valid,(358) 872-8900,Houston,Texas,Male,56,12/2/2023,Ads,Churned
+CUST0066,Matthew Phillips,matthewphillips@yahoo.com,Valid,(547) 559-1100,Phoenix,Arizona,Male,35,10/22/2020,Organic Search,VIP
+CUST0067,Amelia Wright,ameliawright@gmail.com,Valid,(286) 253-3549,Nashville,Tennessee,Female,37,8/11/2023,Email,New
+CUST0068,Ryan Green,ryangreen@yahoo.com,Valid,,Fort Worth,Texas,Male,40,4/25/2022,Marketplace,Regular
+CUST0069,Jackson Lewis,jacksonlewis@gmail.com,Valid,,Los Angeles,California,Male,29,1/16/2020,Referral,Loyal
+CUST0070,Henry Scott,henryscott@gmail.com,Valid,(906) 570-2443,Houston,Texas,Female,38,5/4/2023,Social Media,Regular
+CUST0071,Lucas Hall,lucashall@gmail.com,Valid,(944) 860-3419,Phoenix,Arizona,Male,51,2/17/2021,Seo,Loyal
+CUST0072,Scarlett Evans,scarlettevans@gmail.com,Valid,(650) 269-8682,San Jose,California,Female,57,,Referral,Loyal
+CUST0073,Ryan Williams,ryanwilliams@gmail.com,Valid,(719) 593-8581,Los Angeles,California,Female,,6/27/2020,Referral,Regular
+CUST0074,Caleb Anderson,calebanderson@yahoo.com,Valid,(240) 453-8172,San Francisco,California,Female,,8/4/2020,Referral,VIP
+CUST0075,Aria Hall,ariahall@gmail.com,Valid,(941) 872-3463,Denver,Colorado,Female,39,11/21/2020,Direct,Regular
+CUST0076,Mila Wilson,milawilson@gmail.com,Valid,,Columbus,Ohio,Female,39,5/18/2020,Social Media,Regular
+CUST0077,Grace Jackson,gracejackson@gmail.com,Valid,(739) 238-6517,Nashville,Tennessee,Male,24,3/5/2021,Marketplace,New
+CUST0078,Mason Adams,masonadams@gmail.com,Valid,(659) 439-9749,Indianapolis,Indiana,Female,,7/12/2020,Referral,Loyal
+CUST0079,Scarlett Robinson,scarlettrobinson@gmail.com,Valid,(456) 253-8873,Seattle,Washington,Female,28,9/17/2023,Organic Search,Regular
+CUST0080,Evelyn Adams,evelynadams@gmail.com,Valid,(624) 254-7495,San Diego,California,Male,32,7/3/2021,Organic Search,Churned
+CUST0081,Hannah Hall,hannahhall@yahoo.com,Valid,(659) 830-1086,New York,New York,Female,48,3/2/2021,Email,Regular
+CUST0082,Ella Davis,elladavis@gmail.com,Valid,,San Francisco,California,Male,33,10/4/2022,Social Media,New
+CUST0083,Owen Thomas,owenthomas@gmail.com,Valid,,Fort Worth,Texas,Male,51,9/12/2020,Social Media,New
+CUST0084,Benjamin Collins,benjamincollins@gmail.com,Valid,(379) 997-8612,Indianapolis,Indiana,Male,26,10/24/2020,Referral,VIP
+CUST0085,Oliver Robinson,oliverrobinson@gmail.com,Valid,,San Antonio,Texas,Male,20,1/26/2021,Social Media,New
+CUST0086,Ella Scott,ellascott@gmail.com,Valid,,Nashville,Tennessee,Male,49,,Social Media,Churned
+CUST0087,Abigail Adams,abigailadams@gmail.com,Valid,,Fort Worth,Texas,Female,46,3/23/2023,Ads,Regular
+CUST0088,Layla Adams,laylaadams@gmail.com,Valid,(819) 357-8371,Jacksonville,Florida,Male,59,3/3/2020,Social Media,New
+CUST0089,Harper Davis,harperdavis@yahoo.com,Valid,(920) 656-4515,San Jose,California,Male,,12/6/2020,Organic Search,Regular
+CUST0090,Penelope Adams,penelopeadams@yahoo.com,Valid,(507) 361-3852,San Francisco,California,Woman,60,11/28/2020,Referral,Churned
+CUST0091,Emma King,emmaking@yahoo.com,Valid,(934) 936-8842,Columbus,Ohio,Prefer Not To Say,26,8/26/2022,Referral,Churned
+CUST0092,Scarlett Rogers,,Missing,(714) 256-3034,San Jose,California,Male,58,3/27/2022,Email,VIP
+CUST0093,Jackson Garcia,jacksongarcia@gmail.com,Valid,(714) 856-3762,Denver,Colorado,Male,35,4/21/2022,Marketplace,Churned
+CUST0094,Oliver Johnson,oliverjohnson@gmail.com,Valid,(854) 231-9159,Seattle,Washington,Female,34,1/21/2020,Direct,VIP
+CUST0095,Mila Walker,milawalker@gmail.com,Valid,(347) 520-6231,Jacksonville,Florida,Female,46,2/23/2023,Social Media,New
+CUST0096,Isabella Young,isabellayoung@gmail.com,Valid,(363) 535-6123,Philadelphia,Pennsylvania,Female,,4/5/2023,Seo,New
+CUST0097,Caleb Nelson,calebnelson@gmail.com,Valid,(888) 681-5681,Houston,Texas,Male,21,4/19/2021,Social Media,Regular
+CUST0098,Henry Phillips,henryphillips@gmail.com,Valid,,Houston,Texas,Female,42,6/18/2021,Marketplace,Regular
+CUST0099,Caleb Williams,calebwilliams@yahoo.com,Valid,(343) 535-6218,Nashville,Tennessee,Female,48,1/5/2020,Email,Loyal
+CUST0100,Grace Cook,gracecook@gmail.com,Valid,(942) 904-1436,Dallas,Texas,Male,39,8/27/2022,Direct,New
+CUST0101,Sophia Campbell,sophiacampbell@gmail.com,Valid,(448) 232-2800,Charlotte,North Carolina,Female,57,3/17/2023,Marketplace,Loyal
+CUST0102,Nathan Brown,nathanbrown@gmail.com,Valid,(670) 745-6608,Dallas,Texas,Male,60,9/7/2021,Ads,Loyal
+CUST0103,Abigail Robinson,abigailrobinson@gmail.com,Valid,(480) 494-2996,Seattle,Washington,Woman,48,12/23/2021,Marketplace,Regular
+CUST0104,Jackson Cook,jacksoncook@yahoo.com,Valid,,Nashville,Tennessee,Male,65,6/15/2020,Ads,Loyal
+CUST0105,Sophia Miller,sophiamiller@yahoo.com,Valid,(361) 616-8793,San Antonio,Texas,Male,61,6/23/2023,Marketplace,Regular
+CUST0106,Dylan Williams,dylanwilliams@gmail.com,Valid,,Denver,Colorado,Female,,7/27/2021,Direct,New
+CUST0107,Dylan Roberts,dylanroberts@yahoo.com,Valid,(669) 863-5215,New York,New York,Female,35,3/28/2023,Ads,Regular
+CUST0108,Alexander Scott,alexanderscott@gmail.com,Valid,(454) 206-5272,Charlotte,North Carolina,Female,60,9/11/2023,Organic Search,New
+CUST0109,Elizabeth Reed,elizabethreed@gmail.com,Valid,(920) 988-6095,San Jose,California,Prefer Not To Say,37,1/22/2021,Referral,New
+CUST0110,Riley Parker,rileyparker@gmail.com,Valid,(980) 453-2341,San Francisco,California,Female,48,7/23/2022,Email,Regular
+CUST0111,Caleb Jackson,calebjackson@yahoo.com,Valid,(293) 722-8298,Charlotte,North Carolina,Female,46,3/11/2021,Direct,Churned
+CUST0112,Aurora Walker,aurorawalker@yahoo.com,Valid,(917) 265-9866,Chicago,Illinois,Male,65,7/9/2020,Ads,VIP
+CUST0113,Samuel Stewart,samuelstewart@gmail.com,Valid,,Seattle,Washington,Prefer Not To Say,42,6/13/2023,Marketplace,Regular
+CUST0114,Scarlett Rogers,scarlettrogers@yahoo.com,Valid,,Columbus,Ohio,Prefer Not To Say,33,9/13/2023,Organic Search,VIP
+CUST0115,Ryan Parker,ryanparker@yahoo.com,Valid,(257) 343-9255,San Diego,California,Female,46,4/24/2020,Direct,New
+CUST0116,Daniel Lewis,daniellewis@gmail,Invalid,(805) 952-3869,Columbus,Ohio,Female,51,5/5/2021,Referral,Churned
+CUST0117,Joseph Roberts,josephroberts@gmail.com,Valid,(430) 507-3365,Los Angeles,California,Female,37,12/14/2022,Ads,Regular
+CUST0118,Emily Stewart,emilystewart@yahoo.com,Valid,(889) 819-1647,San Antonio,Texas,Female,52,8/28/2020,Ads,Regular
+CUST0119,Emily Walker,emilywalker@gmail.com,Valid,(912) 818-4350,San Diego,California,Female,25,4/7/2020,Social Media,Churned
+CUST0120,Elizabeth Perez,elizabethperez@gmail.com,Valid,,San Diego,California,Female,64,8/4/2023,Direct,VIP
+CUST0121,Owen Robinson,owenrobinson@gmail.com,Valid,(901) 545-5216,Indianapolis,Indiana,Female,,4/11/2021,Marketplace,New
+CUST0122,Ethan Turner,ethanturner@gmail.com,Valid,(884) 249-1104,San Diego,California,Male,21,3/18/2023,Organic Search,Churned
+CUST0123,Benjamin Edwards,benjaminedwards@yahoo.com,Valid,,Columbus,Ohio,Male,52,,Ads,New
+CUST0124,Lily Roberts,lilyroberts@gmail.com,Valid,(913) 431-5914,Chicago,Illinois,Female,23,,Referral,VIP
+CUST0125,Jack Phillips,jackphillips@gmail.com,Valid,(539) 779-2562,Los Angeles,California,Female,28,1/21/2023,Social Media,New
+CUST0126,Layla Young,laylayoung@gmail.com,Valid,(607) 278-5903,San Diego,California,Female,31,3/28/2020,Referral,Regular
+CUST0127,David Wilson,davidwilson@yahoo.com,Valid,(819) 987-7499,Austin,Texas,Prefer Not To Say,21,9/24/2020,Social Media,Churned
+CUST0128,Jack Baker,jackbaker@yahoo.com,Valid,(275) 284-5390,Phoenix,Arizona,Male,23,,Social Media,Loyal
+CUST0129,David Young,davidyoung@gmail.com,Valid,(291) 562-2524,Austin,Texas,Female,46,3/3/2020,Direct,New
+CUST0130,Zoey Martin,zoeymartin@gmail,Invalid,(645) 482-7899,Chicago,Illinois,Male,35,11/13/2021,Email,New
+CUST0131,Logan Nelson,logannelson@gmail.com,Valid,(537) 650-6484,Nashville,Tennessee,Prefer Not To Say,43,3/10/2020,Social Media,New
+CUST0132,Sebastian Robinson,sebastianrobinson@gmail.com,Valid,(777) 404-9939,Seattle,Washington,Prefer Not To Say,42,10/26/2023,Marketplace,New
+CUST0133,William Jones,williamjones@gmail.com,Valid,(586) 275-8357,Indianapolis,Indiana,Prefer Not To Say,37,11/16/2023,Referral,New
+CUST0134,Dylan Williams,dylanwilliams@yahoo.com,Valid,(880) 563-3725,Los Angeles,California,Male,,12/26/2022,Social Media,Regular
+CUST0135,Ella Miller,ellamiller@gmail.com,Valid,(656) 583-7408,Denver,Colorado,Prefer Not To Say,65,2/9/2020,Social Media,New
+CUST0136,Ava Davis,avadavis@gmail.com,Valid,(939) 913-8412,San Jose,California,Male,31,6/10/2021,Organic Search,Regular
+CUST0137,Mason Martin,masonmartin@yahoo.com,Valid,(388) 390-8080,Nashville,Tennessee,Female,,6/9/2021,Ads,Regular
+CUST0138,David Cook,davidcook@gmail.com,Valid,(468) 886-9019,Austin,Texas,Female,52,10/4/2020,Marketplace,VIP
+CUST0139,Charlotte Rogers,,Missing,(582) 910-3316,Columbus,Ohio,Female,26,10/19/2022,Email,New
+CUST0140,William Stewart,williamstewart@gmail.com,Valid,,Fort Worth,Texas,Female,26,9/6/2021,Referral,Regular
+CUST0141,Penelope Adams,penelopeadams@yahoo.com,Valid,(372) 999-8492,Indianapolis,Indiana,Male,32,3/3/2023,Marketplace,Loyal
+CUST0142,Dylan Williams,dylanwilliams@gmail.com,Valid,(233) 660-5305,Chicago,Illinois,Male,24,9/7/2023,Marketplace,Churned
+CUST0143,William Allen,williamallen@gmail.com,Valid,(745) 487-9827,San Jose,California,,31,3/20/2023,Direct,New
+CUST0144,Daniel Miller,danielmiller@gmail.com,Valid,(928) 529-5055,Fort Worth,Texas,Male,59,7/2/2021,Referral,Churned
+CUST0145,Liam Collins,liamcollins@gmail.com,Valid,(535) 795-1040,Chicago,Illinois,Female,,7/17/2020,Organic Search,Loyal
+CUST0146,Mila White,milawhite@gmail.com,Valid,,Charlotte,North Carolina,Male,36,4/16/2023,Referral,Regular
+CUST0147,Logan Reed,loganreed@gmail.com,Valid,,San Jose,California,Female,35,,Seo,New
+CUST0148,Liam Wilson,liamwilson@gmail.com,Valid,(632) 910-3165,San Diego,California,Male,18,9/22/2021,Social Media,Regular
+CUST0149,Hannah Rogers,hannahrogers@gmail.com,Valid,(843) 966-3480,Nashville,Tennessee,Male,57,,Marketplace,Loyal
+CUST0150,Mateo Baker,mateobaker@gmail.com,Valid,(491) 997-1439,San Jose,California,Male,23,3/8/2022,Direct,Regular
+CUST0151,Sophia Martin,sophiamartin@gmail.com,Valid,(569) 524-3162,Denver,Colorado,Male,58,7/4/2023,Marketplace,New
+CUST0152,James Thompson,jamesthompson@gmail.com,Valid,,Seattle,Washington,Male,43,,Ads,Churned
+CUST0153,Mia Turner,miaturner@yahoo.com,Valid,(947) 444-1948,Unknown,,Male,59,7/19/2022,Direct,Loyal
+CUST0154,Riley Thomas,rileythomas@gmail.com,Valid,(938) 465-3735,Dallas,Texas,Prefer Not To Say,18,1/23/2020,Referral,New
+CUST0155,Evelyn Roberts,evelynroberts@gmail.com,Valid,(711) 780-3734,Dallas,Texas,Female,58,5/23/2020,Direct,Churned
+CUST0156,Caleb Smith,calebsmith@yahoo.com,Valid,(236) 766-7870,San Diego,California,Male,41,,Social Media,New
+CUST0157,Charlotte Harris,charlotteharris@gmail.com,Valid,(667) 208-7044,Denver,Colorado,Male,36,7/3/2020,Referral,Churned
+CUST0158,Aria Jackson,ariajackson@gmail.com,Valid,(209) 543-1023,Fort Worth,Texas,Male,19,3/1/2021,Ads,Churned
+CUST0159,Sophia Anderson,sophiaanderson@gmail.com,Valid,(965) 286-2565,Fort Worth,Texas,Female,51,2/2/2022,Ads,Churned
+CUST0160,Matthew Lewis,matthewlewis@yahoo.com,Valid,(339) 998-2785,Philadelphia,Pennsylvania,Male,38,12/27/2023,Marketplace,Loyal
+CUST0161,Abigail Nelson,abigailnelson@gmail.com,Valid,,San Diego,California,Male,61,2/3/2022,Marketplace,New
+CUST0162,Emma Scott,emmascott@gmail.com,Valid,,Fort Worth,Texas,Male,24,9/24/2023,Social Media,Loyal
+CUST0163,Liam Johnson,liamjohnson@gmail.com,Valid,,Denver,Colorado,Female,26,4/21/2020,Referral,Regular
+CUST0164,Charlotte Allen,charlotteallen@gmail.com,Valid,(502) 710-7750,Indianapolis,Indiana,Male,27,3/9/2021,Marketplace,Regular
+CUST0165,Alexander Turner,alexanderturner@gmail.com,Valid,(714) 529-7363,New York,New York,Prefer Not To Say,48,7/26/2020,Organic Search,Loyal
+CUST0166,Nathan Roberts,nathanroberts@yahoo.com,Valid,(954) 257-4594,Fort Worth,Texas,,24,10/8/2022,Email,Churned
+CUST0167,Sebastian Reed,sebastianreed@gmail.com,Valid,(392) 704-9882,Indianapolis,Indiana,Male,,1/10/2022,Referral,Loyal
+CUST0168,James Hall,jameshall@yahoo.com,Valid,(345) 992-2817,Jacksonville,Florida,Prefer Not To Say,38,3/11/2021,Organic Search,Loyal
+CUST0169,Sebastian Wilson,sebastianwilson@yahoo.com,Valid,(910) 828-6846,Denver,Colorado,Female,49,12/14/2021,Ads,VIP
+CUST0170,William Evans,williamevans@gmail.com,Valid,(779) 306-9129,Chicago,Illinois,Male,,10/2/2023,Organic Search,New
+CUST0171,Benjamin Collins,benjamincollins@gmail.com,Valid,(937) 201-1788,Columbus,Ohio,Female,33,8/1/2022,Email,Regular
+CUST0172,Jack Miller,jackmiller@yahoo.com,Valid,(501) 220-6221,Houston,Texas,Female,32,10/21/2023,Email,VIP
+CUST0173,Ava Hall,avahall@gmail.com,Valid,(303) 539-4367,Columbus,Ohio,Male,59,12/1/2023,Social Media,Regular
+CUST0174,Noah Brown,noahbrown@yahoo.com,Valid,(877) 840-8869,New York,New York,Prefer Not To Say,27,10/18/2023,Organic Search,VIP
+CUST0175,Mila Carter,milacarter@gmail.com,Valid,(391) 656-1731,Charlotte,North Carolina,Female,52,11/9/2023,Direct,New
+CUST0176,Benjamin Miller,benjaminmiller@gmail.com,Valid,(596) 735-7858,Indianapolis,Indiana,Male,,11/12/2020,Marketplace,VIP
+CUST0177,Caleb Evans,,Missing,(633) 280-8133,Phoenix,Arizona,Prefer Not To Say,,2/25/2021,Organic Search,Regular
+CUST0178,Mila Phillips,milaphillips@gmail.com,Valid,(629) 315-7790,Denver,Colorado,Prefer Not To Say,18,5/17/2022,Email,Regular
+CUST0179,Aria Miller,ariamiller@gmail.com,Valid,(238) 376-5512,Nashville,Tennessee,Male,34,9/12/2022,Social Media,Churned
+CUST0180,Sophia Carter,sophiacarter@gmail.com,Valid,,Charlotte,North Carolina,Male,37,6/1/2022,Organic Search,Regular
+CUST0181,Daniel Green,danielgreen@yahoo.com,Valid,(718) 613-3222,San Francisco,California,Male,21,9/28/2023,Marketplace,Regular
+CUST0182,Scarlett Brown,,Missing,(231) 447-7102,Charlotte,North Carolina,Female,47,12/7/2022,Ads,Regular
+CUST0183,Aiden Reed,aidenreed@gmail.com,Valid,(426) 862-4688,Dallas,Texas,,,5/1/2020,Direct,Regular
+CUST0184,James Carter,jamescarter@gmail.com,Valid,(929) 926-5511,Fort Worth,Texas,Male,18,11/6/2021,Email,Loyal
+CUST0185,Daniel Edwards,danieledwards@gmail.com,Valid,(808) 823-5631,Houston,Texas,Male,,10/4/2023,Social Media,New
+CUST0186,Penelope Stewart,penelopestewart@gmail.com,Valid,(814) 613-6236,New York,New York,Male,,4/5/2022,Referral,Regular
+CUST0187,Riley Williams,rileywilliams@gmail.com,Valid,(887) 567-9311,Philadelphia,Pennsylvania,Male,61,,Ads,Loyal
+CUST0188,Samuel Phillips,samuelphillips@gmail.com,Valid,(539) 580-5269,Charlotte,North Carolina,,32,11/11/2021,Email,Loyal
+CUST0189,Liam Carter,liamcarter@gmail.com,Valid,(354) 340-4281,Denver,Colorado,Male,42,9/4/2021,Ads,Churned
+CUST0190,Grace Hall,gracehall@gmail.com,Valid,(982) 362-9021,Chicago,Illinois,Female,46,6/21/2021,Referral,New
+CUST0191,Jack Smith,jacksmith@gmail.com,Valid,(218) 892-1067,San Diego,California,Female,,,Email,Loyal
+CUST0192,Nora Walker,norawalker@gmail.com,Valid,(644) 903-3192,Indianapolis,Indiana,Prefer Not To Say,36,2/27/2021,Referral,New
+CUST0193,Emma Harris,emmaharris@yahoo.com,Valid,(866) 238-7147,Dallas,Texas,Female,19,12/5/2021,Organic Search,New
+CUST0194,Emma Brown,emmabrown@gmail.com,Valid,(902) 845-1152,Houston,Texas,Male,53,7/15/2020,Marketplace,Regular
+CUST0195,Caleb Edwards,calebedwards@yahoo.com,Valid,(735) 406-6864,San Jose,California,Prefer Not To Say,49,5/4/2020,Referral,VIP
+CUST0196,Emily Martin,emilymartin@gmail.com,Valid,,Houston,Texas,Female,,1/22/2020,Social Media,New
+CUST0197,Noah Thomas,noahthomas@yahoo.com,Valid,(246) 209-3267,Philadelphia,Pennsylvania,Prefer Not To Say,38,5/12/2020,Direct,VIP
+CUST0198,Ava King,avaking@gmail.com,Valid,,Los Angeles,California,Male,47,3/4/2022,Referral,Regular
+CUST0199,Aurora Evans,auroraevans@gmail.com,Valid,(944) 333-8914,Houston,Texas,Male,40,3/20/2023,Organic Search,Regular
+CUST0200,Layla Roberts,laylaroberts@gmail.com,Valid,(944) 454-8895,Fort Worth,Texas,Prefer Not To Say,51,11/28/2021,Organic Search,Regular
+CUST0201,Mason Perez,masonperez@gmail.com,Valid,(719) 428-7203,San Diego,California,Female,49,,Referral,New
+CUST0202,Ryan Lewis,ryanlewis@yahoo.com,Valid,(293) 818-5990,Seattle,Washington,Prefer Not To Say,24,8/24/2020,Organic Search,Loyal
+CUST0203,Matthew Nelson,matthewnelson@gmail.com,Valid,,Jacksonville,Florida,Male,48,9/25/2022,Direct,Loyal
+CUST0204,Noah Williams,noahwilliams@yahoo.com,Valid,(392) 323-7437,San Antonio,Texas,Female,65,8/5/2021,Marketplace,VIP
+CUST0205,Isabella Adams,isabellaadams@yahoo.com,Valid,(766) 643-8912,Philadelphia,Pennsylvania,Woman,,,Direct,Churned
+CUST0206,Isaac Parker,isaacparker@gmail.com,Valid,(551) 501-8419,Phoenix,Arizona,Female,,9/13/2022,Direct,Regular
+CUST0207,Zoey Lewis,zoeylewis@gmail.com,Valid,(927) 865-3913,Austin,Texas,Female,36,4/7/2021,Direct,Loyal
+CUST0208,Penelope Green,penelopegreen@yahoo.com,Valid,(404) 473-3636,Dallas,Texas,Male,24,7/26/2022,Email,New
+CUST0209,Oliver Allen,oliverallen@yahoo.com,Valid,(598) 443-9370,San Jose,California,Female,65,2/20/2023,Marketplace,Churned
+CUST0210,Sebastian Phillips,sebastianphillips@gmail.com,Valid,(430) 848-7025,Seattle,Washington,Male,,1/24/2020,Referral,Regular
+CUST0211,Charlotte Rogers,charlotterogers@gmail.com,Valid,,Charlotte,North Carolina,Male,25,3/6/2020,Organic Search,Loyal
+CUST0212,Alexander Edwards,alexanderedwards@gmail.com,Valid,(388) 733-2117,Philadelphia,Pennsylvania,Male,40,8/26/2022,Ads,Loyal
+CUST0213,Emily King,emilyking@gmail.com,Valid,(209) 317-6668,Nashville,Tennessee,Male,,4/25/2022,Referral,Loyal
+CUST0214,Joseph Davis,josephdavis@gmail.com,Valid,,San Antonio,Texas,Male,,5/18/2023,Marketplace,Loyal
+CUST0215,James Collins,jamescollins@gmail.com,Valid,(750) 919-8130,Chicago,Illinois,Female,,4/22/2020,Organic Search,Loyal
+CUST0216,Joseph Thompson,josephthompson@gmail.com,Valid,(523) 217-7381,Seattle,Washington,Male,34,10/27/2020,Organic Search,New
+CUST0217,Liam Allen,liamallen@gmail.com,Valid,(604) 876-1504,Seattle,Washington,Woman,56,5/26/2020,Social Media,Loyal
+CUST0218,Mia Walker,miawalker@yahoo.com,Valid,(750) 760-2394,Jacksonville,Florida,,27,1/18/2022,Ads,Churned
+CUST0219,Savannah Thompson,savannahthompson@gmail.com,Valid,(762) 672-2198,Chicago,Illinois,Female,,2/6/2021,Social Media,Loyal
+CUST0220,Noah Robinson,noahrobinson@gmail.com,Valid,(779) 780-6971,Columbus,Ohio,Male,39,4/11/2020,Direct,Regular
+CUST0221,Ella Young,ellayoung@gmail.com,Valid,(764) 311-3879,Chicago,Illinois,Male,48,3/22/2022,Social Media,Loyal
+CUST0222,Alexander Jones,alexanderjones@gmail.com,Valid,(417) 237-5269,Seattle,Washington,Female,19,1/28/2020,Marketplace,Regular
+CUST0223,Matthew Robinson,matthewrobinson@yahoo.com,Valid,(828) 900-3717,Phoenix,Arizona,Prefer Not To Say,43,8/17/2021,Ads,Regular
+CUST0224,Nathan Allen,nathanallen@yahoo.com,Valid,(730) 569-7358,Charlotte,North Carolina,Male,22,,Email,Regular
+CUST0225,Alexander Young,alexanderyoung@gmail.com,Valid,(279) 729-5121,San Diego,California,,42,10/18/2022,Referral,Loyal
+CUST0226,Isaac Smith,isaacsmith@yahoo.com,Valid,(570) 816-2938,Columbus,Ohio,Female,50,8/6/2021,Ads,New
+CUST0227,Hannah Green,hannahgreen@@gmail.com,Invalid,(786) 350-1916,Philadelphia,Pennsylvania,Prefer Not To Say,55,4/2/2020,Direct,New
+CUST0228,Samuel Morris,samuelmorris@yahoo.com,Valid,(815) 346-3979,San Francisco,California,Female,,2/7/2022,Email,Regular
+CUST0229,Liam Harris,liamharris@gmail.com,Valid,(353) 820-2577,Nashville,Tennessee,Female,30,7/5/2023,Organic Search,New
+CUST0230,Ethan Parker,ethanparker@yahoo.com,Valid,(434) 693-7246,Denver,Colorado,Female,44,11/21/2020,Marketplace,Regular
+CUST0231,Aiden Jackson,aidenjackson@gmail.com,Valid,(410) 904-6175,Houston,Texas,Male,54,12/24/2020,Referral,VIP
+CUST0232,Henry King,henryking@gmail.com,Valid,(772) 768-8925,San Jose,California,Female,44,11/13/2022,Marketplace,VIP
+CUST0233,Riley Harris,rileyharris@gmail.com,Valid,(913) 900-1852,New York,New York,Female,50,12/6/2023,Organic Search,New
+CUST0234,Elizabeth Garcia,elizabethgarcia@gmail.com,Valid,(811) 258-3871,Charlotte,North Carolina,Prefer Not To Say,43,12/13/2020,Ads,Churned
+CUST0235,Caleb Roberts,calebroberts@yahoo.com,Valid,(482) 998-7544,Fort Worth,Texas,Male,41,10/6/2021,Organic Search,Loyal
+CUST0236,Samuel Phillips,samuelphillips@gmail.com,Valid,(204) 467-3867,Houston,Texas,Female,,6/27/2022,Email,Regular
+CUST0237,Aiden Turner,aidenturner@yahoo.com,Valid,(994) 669-8548,New York,New York,Female,54,12/15/2022,Ads,Churned
+CUST0238,Lucas Lewis,lucaslewis@yahoo.com,Valid,,Philadelphia,Pennsylvania,Prefer Not To Say,,6/17/2023,Direct,Regular
+CUST0239,Layla Jackson,laylajackson@yahoo.com,Valid,(455) 833-6833,Unknown,,Prefer Not To Say,,12/7/2023,Organic Search,New
+CUST0240,Dylan Williams,dylanwilliams@gmail.com,Valid,(723) 486-7518,Denver,Colorado,Female,,6/20/2023,Organic Search,Regular
+CUST0241,Mila Rogers,milarogers@yahoo.com,Valid,(588) 794-2650,Nashville,Tennessee,Male,47,8/4/2021,Email,Loyal
+CUST0242,Emily King,emilyking@gmail.com,Valid,(661) 384-3148,San Diego,California,Woman,62,8/14/2021,Marketplace,New
+CUST0243,Mia Anderson,miaanderson@gmail.com,Valid,(937) 523-8972,Seattle,Washington,Male,,1/6/2023,Ads,Regular
+CUST0244,Nathan Collins,nathancollins@gmail.com,Valid,,Nashville,Tennessee,Male,41,8/24/2020,Marketplace,Regular
+CUST0245,Sebastian Rogers,sebastianrogers@gmail.com,Valid,(371) 855-6527,Nashville,Tennessee,Male,42,12/15/2023,Ads,Churned
+CUST0246,Hannah Robinson,hannahrobinson@gmail.com,Valid,(733) 661-7782,New York,New York,Male,46,10/21/2022,Direct,Regular
+CUST0247,Ava White,avawhite@yahoo.com,Valid,(983) 285-2702,Phoenix,Arizona,Female,48,7/4/2021,Direct,New
+CUST0248,Jackson Adams,jacksonadams@gmail.com,Valid,(687) 678-9856,Seattle,Washington,Female,19,3/17/2021,Email,VIP
+CUST0249,Scarlett Collins,scarlettcollins@gmail.com,Valid,(291) 652-6044,Dallas,Texas,Female,,9/21/2023,Ads,Loyal
+CUST0250,Nathan Turner,nathanturner@gmail.com,Valid,(811) 436-1118,San Antonio,Texas,Female,48,12/16/2020,Direct,Churned
+CUST0251,Hannah Wright,hannahwright@gmail.com,Valid,(910) 901-5454,Seattle,Washington,,58,4/9/2023,Social Media,New
+CUST0252,Lily Adams,lilyadams@yahoo.com,Valid,(390) 304-5622,Charlotte,North Carolina,Male,38,12/20/2022,Social Media,Regular
+CUST0253,Joseph Mitchell,josephmitchell@gmail.com,Valid,,Indianapolis,Indiana,Male,39,8/23/2022,Organic Search,VIP
+CUST0254,Jack Adams,jackadams@gmail.com,Valid,(684) 598-6113,Philadelphia,Pennsylvania,Prefer Not To Say,65,12/2/2021,Social Media,New
+CUST0255,Abigail Jackson,abigailjackson@@gmail.com,Invalid,(482) 798-2960,San Diego,California,Male,25,1/28/2022,Email,Loyal
+CUST0256,Mia King,miaking@gmail.com,Valid,(840) 261-1979,Phoenix,Arizona,Male,61,4/6/2020,Email,Regular
+CUST0257,Joseph Stewart,josephstewart@gmail.com,Valid,(240) 696-8168,Seattle,Washington,Male,62,8/24/2022,Direct,New
+CUST0258,Scarlett Young,scarlettyoung@gmail.com,Valid,(994) 853-9289,Philadelphia,Pennsylvania,Female,36,2/17/2021,Social Media,New
+CUST0259,Benjamin Turner,benjaminturner@yahoo.com,Valid,(529) 313-2577,Chicago,Illinois,Male,53,,Organic Search,Loyal
+CUST0260,Noah Williams,noahwilliams@yahoo.com,Valid,(935) 272-1214,San Antonio,Texas,,62,11/16/2023,Direct,Regular
+CUST0261,Sophia King,sophiaking@yahoo.com,Valid,(511) 279-4537,Unknown,,Female,57,6/26/2023,Direct,Loyal
+CUST0262,Harper Evans,harperevans@gmail.com,Valid,(669) 919-7997,Philadelphia,Pennsylvania,Female,65,9/24/2021,Email,Loyal
+CUST0263,Isaac Adams,isaacadams@gmail.com,Valid,(943) 531-4943,San Antonio,Texas,Female,,6/18/2022,Referral,Churned
+CUST0264,Ryan Scott,ryanscott@yahoo.com,Valid,(206) 507-4635,Austin,Texas,Female,56,12/2/2020,Email,Churned
+CUST0265,Caleb Phillips,calebphillips@gmail.com,Valid,,Fort Worth,Texas,Male,27,2/2/2021,Referral,Regular
+CUST0266,Charlotte Mitchell,charlottemitchell@gmail.com,Valid,(989) 542-6700,Columbus,Ohio,,64,10/21/2020,Direct,Regular
+CUST0267,Matthew Parker,matthewparker@yahoo.com,Valid,(353) 534-9231,Phoenix,Arizona,Female,21,11/25/2020,Email,Loyal
+CUST0268,Henry Perez,henryperez@gmail.com,Valid,(963) 250-9980,Chicago,Illinois,Female,43,4/14/2020,Referral,Regular
+CUST0269,Zoey Jackson,zoeyjackson@gmail.com,Valid,(273) 472-8046,Denver,Colorado,Female,53,7/21/2023,Social Media,Loyal
+CUST0270,Hannah Johnson,hannahjohnson@gmail.com,Valid,(439) 404-7124,Unknown,,Prefer Not To Say,46,3/12/2022,Marketplace,Loyal
+CUST0271,Jackson Smith,jacksonsmith@gmail.com,Valid,(416) 408-9952,Dallas,Texas,Prefer Not To Say,46,12/26/2022,Direct,New
+CUST0272,Emma Wright,emmawright@gmail,Invalid,(870) 208-2091,Dallas,Texas,Female,30,,Social Media,New
+CUST0273,Hannah Wright,hannahwright@gmail.com,Valid,(290) 390-4258,Charlotte,North Carolina,Male,,7/17/2021,Social Media,Churned
+CUST0274,Mila Taylor,milataylor@gmail.com,Valid,(482) 263-5221,New York,New York,Male,58,6/22/2020,Referral,Regular
+CUST0275,Benjamin Wilson,benjaminwilson@gmail.com,Valid,(446) 786-3502,San Jose,California,Female,61,12/13/2020,Ads,Regular
+CUST0276,Layla Jackson,laylajackson@gmail.com,Valid,(988) 348-3589,Seattle,Washington,Male,,5/23/2021,Ads,Loyal
+CUST0277,David Lewis,davidlewis@yahoo.com,Valid,,Nashville,Tennessee,Male,,7/10/2023,Ads,Regular
+CUST0278,Mateo Garcia,mateogarcia@gmail.com,Valid,(703) 685-3253,San Diego,California,Male,48,3/17/2023,Referral,VIP
+CUST0279,Lucas Morris,lucasmorris@gmail.com,Valid,(668) 452-8005,Los Angeles,California,Male,,4/3/2021,Direct,New
+CUST0280,Henry Parker,henryparker@yahoo.com,Valid,(952) 240-7347,Los Angeles,California,Prefer Not To Say,,9/4/2020,Social Media,Regular
+CUST0281,Ella Robinson,ellarobinson@gmail.com,Valid,,Columbus,Ohio,Female,,12/17/2020,Ads,Churned
+CUST0282,Ava Thompson,,Missing,,Fort Worth,Texas,Male,28,12/21/2022,Email,Churned
+CUST0283,Jack Williams,jackwilliams@yahoo.com,Valid,(252) 629-6047,Charlotte,North Carolina,Prefer Not To Say,27,6/19/2021,Organic Search,Churned
+CUST0284,Aiden Smith,aidensmith@gmail.com,Valid,(875) 687-8434,Chicago,Illinois,Prefer Not To Say,18,8/28/2023,Direct,Regular
+CUST0285,Zoey White,zoeywhite@gmail.com,Valid,(817) 505-6424,Unknown,,Male,40,3/5/2020,Direct,New
+CUST0286,William Reed,williamreed@yahoo.com,Valid,(588) 269-8001,Chicago,Illinois,Female,20,8/24/2021,Email,Loyal
+CUST0287,Owen Roberts,owenroberts@gmail.com,Valid,(289) 695-5705,Austin,Texas,Male,24,12/7/2021,Email,Loyal
+CUST0288,Henry Mitchell,henrymitchell@yahoo.com,Valid,(321) 224-8616,Houston,Texas,Male,57,8/26/2023,Organic Search,New
+CUST0289,Zoey Collins,zoeycollins@yahoo.com,Valid,,Austin,Texas,Male,36,,Ads,New
+CUST0290,Layla Carter,laylacarter@gmail.com,Valid,(543) 673-7782,Los Angeles,California,Male,27,1/21/2023,Email,New
+CUST0291,Emma White,emmawhite@gmail.com,Valid,(747) 369-7382,Houston,Texas,Male,,6/3/2022,Organic Search,Churned
+CUST0292,Ava Mitchell,,Missing,(238) 996-4311,Charlotte,North Carolina,Prefer Not To Say,37,6/15/2021,Social Media,VIP
+CUST0293,Samuel Roberts,samuelroberts@gmail.com,Valid,(335) 410-1598,Unknown,,Male,,6/5/2022,Marketplace,VIP
+CUST0294,Oliver Miller,olivermiller@gmail.com,Valid,(483) 745-6228,Houston,Texas,Male,,1/19/2022,Email,VIP
+CUST0295,Caleb Miller,calebmiller@gmail.com,Valid,(450) 375-2167,Austin,Texas,Male,35,9/12/2021,Organic Search,Regular
+CUST0296,Ava Baker,avabaker@gmail.com,Valid,(564) 519-6444,Seattle,Washington,Male,55,3/23/2023,Organic Search,Loyal
+CUST0297,William Nelson,williamnelson@gmail.com,Valid,(347) 831-5227,Fort Worth,Texas,Female,63,8/10/2020,Social Media,Loyal
+CUST0298,Emma Jones,emmajones@gmail.com,Valid,(720) 305-7646,Houston,Texas,Woman,28,2/12/2023,Referral,Regular
+CUST0299,Nora Green,noragreen@gmail.com,Valid,(805) 641-8132,Austin,Texas,Female,48,,Direct,Regular
+CUST0300,Henry Mitchell,henrymitchell@gmail.com,Valid,(615) 271-2781,Nashville,Tennessee,Female,53,10/20/2020,Organic Search,Regular
+CUST0301,Ethan Campbell,ethancampbell@gmail.com,Valid,(410) 897-6187,San Jose,California,Male,52,3/22/2020,Organic Search,New
+CUST0302,Lily Perez,lilyperez@@gmail.com,Invalid,(773) 567-2797,New York,New York,Female,,3/28/2023,Referral,Regular
+CUST0303,Mila Wright,milawright@gmail.com,Valid,(568) 627-3527,Phoenix,Arizona,Male,48,9/7/2023,Referral,Loyal
+CUST0304,Benjamin Baker,benjaminbaker@gmail.com,Valid,(635) 838-3945,Columbus,Ohio,Female,,2/5/2021,Email,Loyal
+CUST0305,James Evans,jamesevans@gmail.com,Valid,(238) 781-8917,Houston,Texas,Male,35,12/8/2023,Email,Loyal
+CUST0306,Matthew Young,matthewyoung@gmail.com,Valid,(884) 279-9834,San Jose,California,Female,57,3/9/2023,Referral,Regular
+CUST0307,Caleb Carter,calebcarter@yahoo.com,Valid,,Indianapolis,Indiana,Female,36,7/12/2022,Direct,Churned
+CUST0308,Lily Johnson,lilyjohnson@yahoo.com,Valid,,Houston,Texas,Female,,8/3/2022,Social Media,New
+CUST0309,Aiden Reed,aidenreed@yahoo.com,Valid,(357) 707-7765,San Diego,California,Male,20,8/6/2021,Marketplace,VIP
+CUST0310,Hannah Thompson,hannahthompson@gmail.com,Valid,(745) 439-7222,Fort Worth,Texas,Prefer Not To Say,48,6/1/2020,Marketplace,Regular
+CUST0311,Layla Lewis,laylalewis@gmail.com,Valid,(476) 473-2610,Denver,Colorado,Female,45,2/18/2020,Email,Loyal
+CUST0312,Aria Jackson,ariajackson@gmail.com,Valid,(212) 621-2600,Charlotte,North Carolina,Male,38,,Email,Churned
+CUST0313,Ava Brown,avabrown@gmail.com,Valid,(982) 863-4027,Philadelphia,Pennsylvania,Prefer Not To Say,25,10/21/2021,Social Media,New
+CUST0314,William Morris,williammorris@gmail.com,Valid,(261) 464-5336,Chicago,Illinois,Male,35,5/6/2022,Referral,VIP
+CUST0315,Noah Anderson,noahanderson@yahoo.com,Valid,(785) 945-5105,New York,New York,Male,46,4/20/2023,Direct,Loyal
+CUST0316,Jack Young,jackyoung@gmail.com,Valid,(689) 646-7617,Chicago,Illinois,Prefer Not To Say,54,12/11/2021,Referral,Churned
+CUST0317,Isabella Evans,isabellaevans@gmail.com,Valid,(747) 548-2318,San Jose,California,Male,21,6/22/2022,Ads,Regular
+CUST0318,Jack Miller,jackmiller@yahoo.com,Valid,(937) 807-4907,Chicago,Illinois,Female,46,8/3/2022,Marketplace,Churned
+CUST0319,Emma Williams,emmawilliams@yahoo.com,Valid,(735) 669-9791,Denver,Colorado,Female,20,1/11/2022,Organic Search,VIP
+CUST0320,Lily Williams,lilywilliams@gmail.com,Valid,(299) 667-3796,Chicago,Illinois,Female,29,12/21/2021,Ads,New
+CUST0321,Ella Hall,ellahall@gmail.com,Valid,(418) 982-1746,Austin,Texas,Female,54,6/4/2023,Social Media,Churned
+CUST0322,Ryan Martin,ryanmartin@@gmail.com,Invalid,,Chicago,Illinois,Male,58,3/4/2020,Marketplace,VIP
+CUST0323,William Wilson,williamwilson@gmail.com,Valid,(238) 810-3949,Nashville,Tennessee,Male,46,3/21/2021,Organic Search,Regular
+CUST0324,Logan Davis,logandavis@gmail.com,Valid,(413) 483-1869,Phoenix,Arizona,Female,52,10/12/2020,Direct,Churned
+CUST0325,Oliver Brown,oliverbrown@gmail.com,Valid,(306) 958-1859,Philadelphia,Pennsylvania,Female,39,,Ads,Regular
+CUST0326,Nora Campbell,noracampbell@yahoo.com,Valid,(442) 955-7759,Fort Worth,Texas,Female,38,7/7/2022,Referral,Loyal
+CUST0327,Mia White,miawhite@gmail.com,Valid,,Denver,Colorado,,47,3/13/2023,Ads,Regular
+CUST0328,Lucas Robinson,lucasrobinson@gmail.com,Valid,(734) 700-4546,Charlotte,North Carolina,Female,,11/20/2021,Social Media,Churned
+CUST0329,Lucas Campbell,lucascampbell@gmail.com,Valid,(234) 635-9701,Houston,Texas,Female,20,1/10/2021,Direct,Regular
+CUST0330,Owen White,owenwhite@gmail.com,Valid,(670) 784-1399,Charlotte,North Carolina,Female,23,6/10/2021,Social Media,New
+CUST0331,Penelope Collins,penelopecollins@yahoo.com,Valid,(476) 914-9887,San Antonio,Texas,Prefer Not To Say,62,11/3/2020,Organic Search,Regular
+CUST0332,Layla King,laylaking@gmail.com,Valid,,Austin,Texas,Female,57,2/13/2020,Email,Regular
+CUST0333,William White,williamwhite@yahoo,Invalid,(553) 663-8966,Houston,Texas,,50,6/12/2021,Referral,Churned
+CUST0334,Lily King,lilyking@yahoo.com,Valid,,Phoenix,Arizona,Female,,4/15/2020,Social Media,New
+CUST0335,Layla Turner,laylaturner@yahoo,Invalid,(437) 732-6503,Austin,Texas,Female,65,8/12/2021,Email,Regular
+CUST0336,Savannah Phillips,savannahphillips@yahoo.com,Valid,(495) 988-1775,San Jose,California,Prefer Not To Say,37,8/10/2023,Social Media,Loyal
+CUST0337,Savannah Cook,savannahcook@gmail.com,Valid,(410) 775-1568,Jacksonville,Florida,Prefer Not To Say,38,3/8/2021,Organic Search,New
+CUST0338,Mila Mitchell,milamitchell@gmail.com,Valid,(502) 685-5748,Denver,Colorado,Male,65,8/11/2021,Social Media,New
+CUST0339,Samuel Carter,samuelcarter@gmail.com,Valid,,San Antonio,Texas,Prefer Not To Say,37,3/22/2020,Seo,Loyal
+CUST0340,Layla Morris,laylamorris@gmail,Invalid,(882) 569-7513,Columbus,Ohio,Male,38,9/13/2020,Referral,New
+CUST0341,Zoey Garcia,zoeygarcia@yahoo.com,Valid,,Denver,Colorado,Female,44,12/15/2021,Email,Loyal
+CUST0342,Emily Jones,emilyjones@gmail.com,Valid,(973) 340-4264,Fort Worth,Texas,,35,2/1/2023,Email,Regular
+CUST0343,Abigail Mitchell,abigailmitchell@gmail.com,Valid,(683) 327-5713,Indianapolis,Indiana,Male,27,4/1/2023,Referral,VIP
+CUST0344,Liam Parker,liamparker@gmail.com,Valid,(322) 582-9397,New York,New York,Male,34,10/16/2022,Direct,Loyal
+CUST0345,Ethan Allen,ethanallen@gmail.com,Valid,(742) 854-2258,Philadelphia,Pennsylvania,Male,,1/9/2021,Social Media,Regular
+CUST0346,Layla Walker,laylawalker@gmail.com,Valid,(340) 730-5610,Indianapolis,Indiana,Male,24,11/23/2022,Email,Loyal
+CUST0347,Lucas Jackson,lucasjackson@gmail.com,Valid,,Charlotte,North Carolina,Male,25,7/15/2020,Direct,Churned
+CUST0348,Abigail Johnson,abigailjohnson@gmail.com,Valid,,Indianapolis,Indiana,Male,27,4/5/2020,Email,Churned
+CUST0349,Nora Brown,norabrown@gmail.com,Valid,(816) 410-4277,Jacksonville,Florida,Female,37,2/9/2023,Email,New
+CUST0350,Mateo Allen,mateoallen@yahoo.com,Valid,(981) 214-9664,San Antonio,Texas,Female,33,,Direct,Loyal
+CUST0351,Noah White,noahwhite@yahoo.com,Valid,(588) 634-4510,Unknown,,Male,46,6/23/2023,Ads,Loyal
+CUST0352,Elizabeth Cook,elizabethcook@gmail.com,Valid,(953) 519-8273,Columbus,Ohio,Male,38,9/24/2022,Marketplace,New
+CUST0353,Layla King,laylaking@gmail.com,Valid,(322) 346-7468,Denver,Colorado,Prefer Not To Say,24,1/22/2021,Social Media,Regular
+CUST0354,Emily Jackson,emilyjackson@gmail.com,Valid,(807) 479-7557,Nashville,Tennessee,Female,64,2/8/2023,Referral,VIP
+CUST0355,Noah Davis,noahdavis@gmail.com,Valid,(710) 894-1438,Fort Worth,Texas,Female,26,8/16/2022,Marketplace,New
+CUST0356,Joseph Nelson,josephnelson@gmail.com,Valid,(759) 218-1517,Houston,Texas,Female,50,5/22/2021,Organic Search,Regular
+CUST0357,Penelope Taylor,penelopetaylor@yahoo.com,Valid,(875) 767-9837,Indianapolis,Indiana,Male,42,7/5/2023,Email,Regular
+CUST0358,Jack Edwards,jackedwards@gmail.com,Valid,(959) 797-1440,Austin,Texas,Prefer Not To Say,55,5/11/2022,Organic Search,New
+CUST0359,Harper Martin,harpermartin@yahoo.com,Valid,(751) 533-1612,Columbus,Ohio,Male,,10/3/2022,Email,Churned
+CUST0360,Emma Lewis,emmalewis@yahoo.com,Valid,(544) 708-9237,Austin,Texas,Prefer Not To Say,24,10/13/2023,Direct,Regular
+CUST0361,Matthew Jones,matthewjones@yahoo.com,Valid,(294) 934-2552,Dallas,Texas,Female,54,5/9/2021,Marketplace,New
+CUST0362,Caleb Walker,calebwalker@gmail.com,Valid,(981) 760-3958,San Francisco,California,Male,44,11/18/2023,Direct,Regular
+CUST0363,Scarlett Young,scarlettyoung@gmail.com,Valid,(964) 901-5919,Columbus,Ohio,Male,51,10/24/2023,Referral,Loyal
+CUST0364,Evelyn Robinson,evelynrobinson@@yahoo.com,Invalid,(517) 675-8952,Columbus,Ohio,Male,43,5/22/2021,Organic Search,Loyal
+CUST0365,Aurora Young,aurorayoung@yahoo.com,Valid,(285) 521-5882,Columbus,Ohio,Prefer Not To Say,64,11/28/2021,Marketplace,New
+CUST0366,Ethan Martin,ethanmartin@gmail.com,Valid,(737) 457-9133,San Diego,California,Female,25,10/24/2020,Direct,Regular
+CUST0367,Jack Martin,jackmartin@gmail.com,Valid,(803) 257-9034,Houston,Texas,Female,,4/5/2023,Marketplace,New
+CUST0368,Elizabeth Carter,elizabethcarter@gmail.com,Valid,(255) 907-4926,Fort Worth,Texas,Female,56,5/1/2022,Organic Search,Loyal
+CUST0369,Harper Adams,harperadams@gmail.com,Valid,(504) 415-3625,Austin,Texas,Female,34,,Marketplace,Churned
+CUST0370,Nathan Green,nathangreen@gmail.com,Valid,(560) 630-9973,Charlotte,North Carolina,Male,,12/14/2022,Referral,Churned
+CUST0371,Joseph Stewart,josephstewart@yahoo.com,Valid,(728) 930-3131,Columbus,Ohio,Female,37,1/13/2021,Social Media,New
+CUST0372,Daniel Lewis,daniellewis@gmail.com,Valid,(784) 429-1339,Seattle,Washington,Prefer Not To Say,29,4/3/2022,Ads,Regular
+CUST0373,Matthew Taylor,matthewtaylor@gmail.com,Valid,(780) 320-1231,Columbus,Ohio,,34,7/20/2020,Ads,Regular
+CUST0374,Logan Young,loganyoung@gmail.com,Valid,(489) 944-4102,Columbus,Ohio,Prefer Not To Say,,12/16/2022,Referral,Regular
+CUST0375,Harper King,harperking@gmail.com,Valid,(592) 925-7935,Dallas,Texas,Male,,2/1/2023,Referral,Regular
+CUST0376,Mateo Parker,mateoparker@gmail.com,Valid,(772) 242-3938,San Francisco,California,Female,42,,Direct,Regular
+CUST0377,Chloe Baker,chloebaker@gmail.com,Valid,(569) 640-5635,Dallas,Texas,Male,26,5/4/2021,Ads,Regular
+CUST0378,Grace Anderson,graceanderson@gmail.com,Valid,(678) 646-2900,Indianapolis,Indiana,Male,32,1/7/2023,Referral,New
+CUST0379,Isabella Anderson,isabellaanderson@yahoo.com,Valid,(479) 776-4479,New York,New York,Female,36,,Marketplace,New
+CUST0380,Noah Hall,noahhall@gmail.com,Valid,,Indianapolis,Indiana,Female,25,,Organic Search,Churned
+CUST0381,Ryan Lewis,ryanlewis@gmail.com,Valid,,Dallas,Texas,,59,,Marketplace,New
+CUST0382,Jack Scott,jackscott@gmail.com,Valid,(517) 901-3151,Houston,Texas,Female,27,11/25/2022,Referral,Churned
+CUST0383,Evelyn Evans,evelynevans@gmail.com,Valid,(241) 725-6599,San Diego,California,Prefer Not To Say,41,2/25/2023,Direct,Regular
+CUST0384,Chloe Garcia,chloegarcia@gmail.com,Valid,(507) 454-9570,Denver,Colorado,Male,48,,Referral,New
+CUST0385,Owen Miller,owenmiller@gmail.com,Valid,(216) 316-8583,Philadelphia,Pennsylvania,Female,34,11/24/2023,Social Media,Loyal
+CUST0386,Scarlett Morris,scarlettmorris@yahoo.com,Valid,(465) 889-2742,New York,New York,Male,29,10/26/2023,Direct,Regular
+CUST0387,Mila Morris,milamorris@gmail.com,Valid,,New York,New York,Female,57,5/20/2023,Organic Search,VIP
+CUST0388,Hannah Anderson,hannahanderson@gmail.com,Valid,,Phoenix,Arizona,Female,52,,Referral,Loyal
+CUST0389,Nora Martin,noramartin@yahoo.com,Valid,(930) 642-7810,Denver,Colorado,Male,43,5/19/2021,Referral,VIP
+CUST0390,Caleb Campbell,calebcampbell@gmail,Invalid,,Nashville,Tennessee,Female,19,,Social Media,New
+CUST0391,Nathan Allen,nathanallen@gmail.com,Valid,(872) 679-3148,Fort Worth,Texas,Female,61,4/17/2023,Marketplace,New
+CUST0392,Matthew Taylor,matthewtaylor@yahoo.com,Valid,(703) 303-7815,Indianapolis,Indiana,Male,60,,Social Media,Loyal
+CUST0393,Mason Thomas,masonthomas@gmail.com,Valid,(548) 563-1764,Seattle,Washington,Female,57,2/11/2020,Direct,Regular
+CUST0394,Noah Cook,noahcook@gmail.com,Valid,(304) 775-1687,Philadelphia,Pennsylvania,Prefer Not To Say,,8/26/2020,Social Media,Regular
+CUST0395,David Perez,,Missing,(406) 649-7811,New York,New York,Female,59,12/28/2023,Organic Search,New
+CUST0396,Penelope Green,penelopegreen@yahoo.com,Valid,(623) 619-8516,San Francisco,California,Male,51,11/22/2022,Organic Search,New
+CUST0397,Chloe Jones,chloejones@@gmail.com,Invalid,(856) 354-1947,San Francisco,California,Prefer Not To Say,28,6/11/2020,Marketplace,Regular
+CUST0398,Riley Lewis,rileylewis@yahoo.com,Valid,(859) 410-9919,Nashville,Tennessee,Prefer Not To Say,51,1/27/2022,Referral,Regular
+CUST0399,Aria Jackson,,Missing,,Seattle,Washington,Male,42,2/2/2022,Marketplace,Regular
+CUST0400,Aiden Martin,aidenmartin@gmail.com,Valid,,Houston,Texas,Male,25,12/14/2022,Ads,Churned
+CUST0401,Nora Evans,noraevans@yahoo.com,Valid,(955) 453-2724,Denver,Colorado,Female,63,6/10/2021,Referral,Regular
+CUST0402,Savannah Green,savannahgreen@gmail.com,Valid,(738) 612-9502,Dallas,Texas,Prefer Not To Say,26,2/2/2020,Referral,Regular
+CUST0403,Samuel Green,samuelgreen@gmail.com,Valid,(741) 320-4483,Los Angeles,California,Female,63,3/17/2021,Email,New
+CUST0404,Matthew Green,matthewgreen@yahoo.com,Valid,(583) 510-5816,Phoenix,Arizona,Male,20,2/12/2020,Social Media,Loyal
+CUST0405,Daniel Mitchell,danielmitchell@gmail.com,Valid,(545) 586-8786,Nashville,Tennessee,Male,20,2/18/2020,Direct,Regular
+CUST0406,Ryan Anderson,ryananderson@yahoo.com,Valid,(753) 246-8259,Chicago,Illinois,Female,57,2/26/2022,Direct,Loyal
+CUST0407,Abigail Phillips,abigailphillips@gmail.com,Valid,(734) 393-8796,New York,New York,Male,57,,Marketplace,New
+CUST0408,Savannah Cook,savannahcook@yahoo.com,Valid,(223) 548-8160,New York,New York,Male,38,2/26/2023,Organic Search,Regular
+CUST0409,Jackson Anderson,jacksonanderson@gmail,Invalid,(533) 385-1445,San Jose,California,Female,,5/25/2021,Referral,New
+CUST0410,Daniel Davis,danieldavis@gmail.com,Valid,(317) 475-1993,Seattle,Washington,Female,55,4/8/2020,Organic Search,VIP
+CUST0411,Nora Rogers,norarogers@gmail.com,Valid,(851) 712-4333,Phoenix,Arizona,Male,26,4/25/2020,Referral,Loyal
+CUST0412,Zoey Adams,zoeyadams@@gmail.com,Invalid,(693) 479-5110,Fort Worth,Texas,Male,57,1/27/2020,Social Media,Regular
+CUST0413,Henry Jones,henryjones@gmail.com,Valid,(415) 825-9270,Austin,Texas,Male,26,2/13/2022,Direct,Loyal
+CUST0414,Ryan Young,ryanyoung@gmail.com,Valid,(336) 861-1033,New York,New York,Female,,11/11/2021,Direct,Regular
+CUST0415,Grace Scott,gracescott@gmail.com,Valid,(326) 561-7166,Jacksonville,Florida,Woman,,11/21/2020,Organic Search,New
+CUST0416,Logan Adams,loganadams@gmail.com,Valid,(828) 840-5967,San Diego,California,Female,35,4/24/2020,Direct,New
+CUST0417,Penelope Parker,penelopeparker@gmail.com,Valid,(705) 374-4174,Denver,Colorado,Male,58,1/7/2021,Direct,Churned
+CUST0418,Liam Wilson,liamwilson@yahoo.com,Valid,(223) 909-9731,Seattle,Washington,Female,51,10/28/2022,Direct,New
+CUST0419,Sophia Lewis,sophialewis@gmail.com,Valid,(938) 429-1769,Columbus,Ohio,Female,51,7/9/2023,Email,New
+CUST0420,Aurora Johnson,aurorajohnson@gmail,Invalid,(840) 299-1456,New York,New York,Female,33,12/14/2021,Organic Search,Churned
+CUST0421,Emily Brown,emilybrown@gmail.com,Valid,,Los Angeles,California,Prefer Not To Say,22,9/26/2022,Marketplace,New
+CUST0422,Sophia Walker,sophiawalker@gmail.com,Valid,(832) 970-7735,Nashville,Tennessee,Female,53,2/4/2023,Referral,Loyal
+CUST0423,Lily Edwards,lilyedwards@gmail.com,Valid,(305) 212-2106,San Antonio,Texas,Female,19,6/21/2020,Referral,Churned
+CUST0424,Samuel Edwards,samueledwards@gmail.com,Valid,(867) 972-6861,Seattle,Washington,Female,20,3/8/2023,Social Media,New
+CUST0425,Chloe Campbell,chloecampbell@gmail.com,Valid,(405) 855-4297,Austin,Texas,Female,,1/8/2021,Direct,Regular
+CUST0426,Emily Campbell,emilycampbell@gmail.com,Valid,(707) 424-1060,San Diego,California,Female,28,10/10/2022,Marketplace,Regular
+CUST0427,Riley Wright,rileywright@@yahoo.com,Invalid,(317) 345-5760,Denver,Colorado,Prefer Not To Say,18,7/6/2021,Social Media,VIP
+CUST0428,Samuel Thomas,samuelthomas@yahoo.com,Valid,(893) 340-7208,Houston,Texas,Female,19,9/8/2022,Social Media,New
+CUST0429,Chloe Edwards,chloeedwards@yahoo.com,Valid,(583) 525-8037,San Diego,California,Female,26,12/3/2023,Social Media,New
+CUST0430,Sebastian Martin,sebastianmartin@gmail.com,Valid,(414) 944-2333,Nashville,Tennessee,Female,,11/26/2020,Email,Regular
+CUST0431,Elizabeth Mitchell,elizabethmitchell@gmail.com,Valid,(474) 795-7569,Denver,Colorado,Prefer Not To Say,51,3/11/2023,Ads,Loyal
+CUST0432,Abigail Baker,abigailbaker@yahoo.com,Valid,(502) 655-9500,Denver,Colorado,Female,41,10/6/2023,Referral,Churned
+CUST0433,Owen King,owenking@yahoo.com,Valid,(284) 501-9220,Chicago,Illinois,Male,29,,Organic Search,Regular
+CUST0434,Emily Jackson,emilyjackson@yahoo.com,Valid,(341) 970-9898,New York,New York,Female,,5/10/2022,Referral,Loyal
+CUST0435,Daniel Campbell,danielcampbell@yahoo.com,Valid,(414) 685-4829,Seattle,Washington,Female,,8/21/2020,Social Media,Regular
+CUST0436,Ella Reed,ellareed@yahoo.com,Valid,(512) 955-1158,Jacksonville,Florida,Female,53,4/15/2023,Marketplace,Regular
+CUST0437,Abigail Lewis,abigaillewis@gmail.com,Valid,(844) 817-7404,San Antonio,Texas,Female,26,10/26/2020,Social Media,New
+CUST0438,Ryan Collins,ryancollins@gmail.com,Valid,,Fort Worth,Texas,Female,53,2/6/2022,Organic Search,New
+CUST0439,James Taylor,jamestaylor@gmail.com,Valid,(598) 411-3128,San Jose,California,Female,25,7/13/2022,Social Media,New
+CUST0440,Caleb Cook,calebcook@gmail.com,Valid,(452) 738-6388,Indianapolis,Indiana,Female,27,5/7/2023,Referral,New
+CUST0441,Mateo Reed,mateoreed@yahoo.com,Valid,(642) 668-7302,Philadelphia,Pennsylvania,Female,29,7/20/2022,Marketplace,VIP
+CUST0442,Benjamin Jones,benjaminjones@gmail.com,Valid,(716) 984-6341,Philadelphia,Pennsylvania,Female,53,,Direct,Churned
+CUST0443,Layla Nelson,,Missing,(339) 534-8606,Chicago,Illinois,Male,30,6/24/2023,Referral,Regular
+CUST0444,Daniel Young,danielyoung@yahoo.com,Valid,(372) 279-1183,Phoenix,Arizona,Male,24,3/27/2021,Email,New
+CUST0445,Amelia Adams,ameliaadams@gmail.com,Valid,(515) 654-1858,Los Angeles,California,Prefer Not To Say,60,11/26/2020,Ads,Regular
+CUST0446,Owen Johnson,owenjohnson@gmail.com,Valid,,Unknown,,Female,60,6/27/2020,Ads,New
+CUST0447,Mila Baker,milabaker@gmail.com,Valid,(598) 417-8516,Dallas,Texas,Male,38,4/7/2020,Social Media,New
+CUST0448,Grace Miller,gracemiller@gmail.com,Valid,(910) 336-6440,Austin,Texas,Male,58,4/5/2021,Email,Loyal
+CUST0449,Ryan Wright,ryanwright@gmail.com,Valid,(516) 442-8020,Nashville,Tennessee,Female,18,9/19/2021,Referral,Loyal
+CUST0450,Amelia Stewart,ameliastewart@gmail.com,Valid,(859) 978-1648,Columbus,Ohio,Male,46,4/24/2020,Social Media,Loyal
+CUST0451,Amelia Turner,ameliaturner@gmail.com,Valid,(529) 387-8247,Chicago,Illinois,Male,62,11/8/2020,Ads,VIP
+CUST0452,Ethan Garcia,ethangarcia@yahoo.com,Valid,(518) 368-4236,Philadelphia,Pennsylvania,Female,31,10/18/2021,Ads,VIP
+CUST0453,Joseph Carter,josephcarter@gmail.com,Valid,,Fort Worth,Texas,Prefer Not To Say,48,6/13/2020,Email,Regular
+CUST0454,Mia Phillips,miaphillips@gmail.com,Valid,(541) 339-8688,San Antonio,Texas,Female,47,5/13/2021,Referral,Regular
+CUST0455,Owen Scott,owenscott@gmail.com,Valid,(327) 594-3660,Columbus,Ohio,Female,55,7/16/2022,Direct,Regular
+CUST0456,Grace Collins,gracecollins@@yahoo.com,Invalid,(570) 846-1462,Phoenix,Arizona,Female,45,12/2/2022,Email,Loyal
+CUST0457,Nora Morris,noramorris@gmail.com,Valid,(282) 730-4093,Philadelphia,Pennsylvania,Female,59,1/4/2021,Direct,VIP
+CUST0458,Jack Campbell,jackcampbell@yahoo.com,Valid,(552) 346-5407,Fort Worth,Texas,Male,,12/14/2022,Seo,VIP
+CUST0459,Chloe Green,chloegreen@yahoo.com,Valid,(714) 312-8383,San Antonio,Texas,Male,41,12/14/2022,Social Media,New
+CUST0460,Owen Adams,owenadams@yahoo.com,Valid,(799) 440-8829,Houston,Texas,Prefer Not To Say,23,11/6/2020,Marketplace,New
+CUST0461,Noah White,noahwhite@gmail.com,Valid,(639) 544-7074,Austin,Texas,Prefer Not To Say,,7/20/2020,Referral,Regular
+CUST0462,Lily Brown,lilybrown@gmail.com,Valid,(342) 226-3013,Dallas,Texas,Male,,6/26/2022,Direct,New
+CUST0463,Benjamin Carter,benjamincarter@@gmail.com,Invalid,(568) 246-6333,San Diego,California,Male,,,Referral,New
+CUST0464,Nathan Morris,nathanmorris@gmail.com,Valid,,Chicago,Illinois,Female,30,12/13/2020,Ads,Regular
+CUST0465,Isabella Carter,isabellacarter@yahoo.com,Valid,(229) 364-6349,Dallas,Texas,Female,60,4/7/2021,Organic Search,New
+CUST0466,Dylan Collins,dylancollins@gmail.com,Valid,(859) 551-7176,Fort Worth,Texas,Prefer Not To Say,,2/26/2023,Ads,Loyal
+CUST0467,Isabella Robinson,,Missing,(576) 330-6134,Denver,Colorado,Female,,2/3/2020,Referral,Regular
+CUST0468,Ella Lewis,ellalewis@yahoo.com,Valid,(751) 671-6176,San Jose,California,Female,60,11/26/2022,Ads,New
+CUST0469,Matthew Reed,matthewreed@gmail.com,Valid,(689) 846-4534,Fort Worth,Texas,Male,62,10/11/2020,Marketplace,Regular
+CUST0470,Aurora Harris,auroraharris@gmail.com,Valid,(363) 222-9977,Columbus,Ohio,Female,43,3/28/2020,Email,Regular
+CUST0471,Samuel Robinson,samuelrobinson@yahoo.com,Valid,(794) 255-5981,Philadelphia,Pennsylvania,Female,53,12/7/2022,Ads,Loyal
+CUST0472,Riley Jackson,rileyjackson@gmail.com,Valid,(637) 895-3756,Houston,Texas,Prefer Not To Say,24,6/24/2020,Email,Churned
+CUST0473,Hannah Hall,hannahhall@yahoo.com,Valid,(904) 810-3826,Fort Worth,Texas,Female,33,,Referral,Loyal
+CUST0474,Daniel Stewart,,Missing,(856) 884-9351,Denver,Colorado,Male,41,5/21/2023,Marketplace,Loyal
+CUST0475,Jack Carter,jackcarter@gmail.com,Valid,(389) 615-1323,Seattle,Washington,Male,38,5/19/2023,Email,New
+CUST0476,Penelope Stewart,penelopestewart@@gmail.com,Invalid,,Denver,Colorado,Female,,4/22/2020,Organic Search,Churned
+CUST0477,Caleb Walker,calebwalker@gmail.com,Valid,(731) 500-9750,Denver,Colorado,Prefer Not To Say,60,9/6/2022,Email,Regular
+CUST0478,Dylan Perez,dylanperez@yahoo.com,Valid,(420) 337-4539,Dallas,Texas,Male,20,12/4/2021,Referral,Loyal
+CUST0479,Hannah Taylor,hannahtaylor@gmail.com,Valid,(272) 844-5413,San Antonio,Texas,Male,61,8/3/2023,Ads,Churned
+CUST0480,Mia Lewis,mialewis@yahoo.com,Valid,(761) 616-2080,Chicago,Illinois,Male,33,7/1/2023,Ads,Churned
+CUST0481,Noah Wright,noahwright@gmail.com,Valid,(701) 297-9666,Denver,Colorado,Male,25,7/4/2021,Ads,VIP
+CUST0482,David Wright,davidwright@gmail.com,Valid,,San Francisco,California,Male,52,6/26/2021,Social Media,Loyal
+CUST0483,Penelope Martin,penelopemartin@gmail.com,Valid,(638) 733-4748,Chicago,Illinois,Female,40,,Organic Search,New
+CUST0484,Ava Taylor,avataylor@yahoo.com,Valid,(893) 720-3235,San Francisco,California,Female,49,2/24/2020,Organic Search,Regular
+CUST0485,Savannah Smith,savannahsmith@gmail.com,Valid,(740) 900-1693,Philadelphia,Pennsylvania,Female,,12/18/2023,Organic Search,Loyal
+CUST0486,Ethan Perez,ethanperez@yahoo.com,Valid,(455) 752-2931,Indianapolis,Indiana,Female,28,1/14/2022,Ads,Regular
+CUST0487,Hannah Perez,hannahperez@gmail.com,Valid,(562) 309-1084,Philadelphia,Pennsylvania,Female,21,8/20/2020,Email,VIP
+CUST0488,Caleb Anderson,calebanderson@gmail.com,Valid,(573) 638-3984,Unknown,,,60,2/16/2023,Social Media,New
+CUST0489,James Allen,jamesallen@gmail.com,Valid,(364) 882-4260,Unknown,,Female,26,2/7/2021,Ads,Regular
+CUST0490,David Scott,davidscott@@gmail.com,Invalid,(900) 442-1852,Austin,Texas,Male,19,3/4/2023,Social Media,Churned
+CUST0491,David Baker,davidbaker@gmail.com,Valid,(917) 453-8031,Houston,Texas,Male,29,10/5/2021,Email,Loyal
+CUST0492,Alexander Collins,alexandercollins@yahoo.com,Valid,,Los Angeles,California,Male,20,4/4/2021,Ads,New
+CUST0493,Nathan Brown,nathanbrown@gmail.com,Valid,(452) 527-1779,New York,New York,Male,35,11/2/2023,Email,Regular
+CUST0494,Noah Baker,noahbaker@gmail.com,Valid,(988) 333-6426,Jacksonville,Florida,Male,37,5/16/2021,Social Media,Regular
+CUST0495,Jack Garcia,jackgarcia@gmail.com,Valid,(395) 397-8303,Chicago,Illinois,Female,25,3/21/2020,Marketplace,Loyal
+CUST0496,Samuel Anderson,samuelanderson@gmail.com,Valid,(773) 555-6996,Houston,Texas,Female,63,3/7/2020,Email,Regular
+CUST0497,Joseph Johnson,josephjohnson@gmail,Invalid,(910) 394-7512,Seattle,Washington,Male,26,10/9/2021,Referral,Loyal
+CUST0498,Zoey Wright,zoeywright@yahoo.com,Valid,(725) 666-9254,San Francisco,California,Male,18,10/9/2023,Organic Search,New
+CUST0499,Dylan Martin,dylanmartin@yahoo.com,Valid,(857) 454-4440,New York,New York,Prefer Not To Say,,1/21/2022,Direct,New
+CUST0500,Zoey Thompson,zoeythompson@yahoo.com,Valid,(948) 486-3895,New York,New York,Male,21,7/20/2021,Organic Search,Regular
